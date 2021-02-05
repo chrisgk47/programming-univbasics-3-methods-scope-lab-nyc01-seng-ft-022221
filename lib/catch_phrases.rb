@@ -9,3 +9,15 @@ def toadstool
   puts status
   status
 end
+
+def link
+  cool_phrase = "It's Dangerous To Go Alone! Take This."
+  puts cool_phrase
+  cool_phrase
+end
+
+def all_phrases
+  puts Mario
+  puts toadstool
+  puts link
+end
