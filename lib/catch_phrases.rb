@@ -20,4 +20,7 @@ def all_phrases
   puts phrase
   puts status
   puts cool_phrase
+  phrase
+  status
+  cool_phrase
 end
